@@ -1,0 +1,3 @@
+docker run -d -p 80:80 nginx
+
+docker run -d -e MYSQL_ROOT_PASSWORD=2023teste -p 3396:3396 mysql
